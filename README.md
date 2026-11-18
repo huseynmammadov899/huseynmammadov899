@@ -37,4 +37,4 @@ legacy VMs to Kubernetes with Argo CD and Vault. I also mentor RHCSA and DevOps 
 
 ### 📫 Contact
 
-[Credly](https://www.credly.com/users/hsmammadov/)
+[LinkedIn](https://www.linkedin.com/in/huseynmemmedov/) · [Credly](https://www.credly.com/users/hsmammadov/)
