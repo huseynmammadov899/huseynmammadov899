@@ -28,8 +28,10 @@ legacy VMs to Kubernetes with Argo CD and Vault. I also mentor RHCSA and DevOps 
 - **[vm-to-k8s-migration](https://github.com/huseynmammadov899/vm-to-k8s-migration)**: 5 real problems
   I hit moving Java services from VMs to Kubernetes (secrets, hidden `/etc/hosts` dependencies,
   duplicate scheduled jobs, Host-header cutover, air-gapped builds), with manifests, a migration
-  checklist and a VM discovery script.
-- **RHCSA common mistakes** *(coming soon)*: the topics students get wrong most often, with labs.
+  checklist and a VM discovery script. English + Azerbaijani.
+- **[rhcsa-common-mistakes](https://github.com/huseynmammadov899/rhcsa-common-mistakes)**: the 10 mistakes
+  RHCSA students make most often (persistence, fstab, SELinux, LVM, rootless containers…), with the
+  right way on RHEL 9, verify commands and a read-only sanity check script. English + Azerbaijani.
 
 ### 🎓 Certifications
 
