@@ -35,8 +35,8 @@ legacy VMs to Kubernetes with Argo CD and Vault. I also mentor RHCSA and DevOps 
 
 ### 🎓 Certifications
 
-[![RHCSA](https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.credly.com/users/hsmammadov/)
+![RHCSA](https://img.shields.io/badge/Red_Hat-RHCSA-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/huseynmemmedov/) · [Credly](https://www.credly.com/users/hsmammadov/)
+[LinkedIn](https://www.linkedin.com/in/huseynmemmedov/)
